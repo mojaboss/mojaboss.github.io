@@ -1,0 +1,47 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+.principale{
+    border: 2px solid red;
+    height: 100vh;
+    width: 100%;
+}
+.carre_a{
+    background-color: blue;
+    border: 5px solid black;
+    height: 150px;
+    width: 150px;
+    
+    ;
+   
+    
+}
+
+/* .carre_a:hover{
+    transform: scale(50px);
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+
+} */
+
+.carre_b{
+    background-color: green;
+    border: 5px solid black;
+    height: 150px;
+    width: 150px;
+}
+.carre_c{
+    background-color: hotpink;
+    border: 5px solid rgb(0, 0, 0);
+    height: 150px;
+    width: 150px;
+}
+ol{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap-reverse;
+    }
